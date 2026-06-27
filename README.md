@@ -134,9 +134,19 @@ flutter run
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-Screenshots of the application will be added soon.
+### Home Screen
+![Home](Screenshots/Admin_home_page.png)
+
+### Login Screen
+![Login](Screenshots/Login_page.jpg)
+
+### User Home Screen
+![Product](Screenshots/User_home_page.jpg)
+
+### Cart Screen
+![Cart](Screenshots/User_cart_page.jpg)
 
 ---
 
